@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Livewire**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aammlj2002?tab=repositories](https://github.com/aammlj2002?tab=repositories)
 
