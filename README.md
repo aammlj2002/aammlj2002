@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aung Aung Myo Myat</h1>
 <h3 align="center">A web developer from Myanmar</h3>
 
-- I'm currently learning TALL Stack
+- I'm currently learning React
 - All of my project are available at [https://github.com/aammlj2002?tab=repositories](https://github.com/aammlj2002?tab=repositories)
 - :mailbox: You can reach me with the links below
 
@@ -36,15 +36,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
-![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
-![Webpack](https://img.shields.io/badge/-Webpack-222222?style=flat&logo=webpack)
 
 ##### Tools I use
 
 ![VS code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
+![Webpack](https://img.shields.io/badge/-Webpack-222222?style=flat&logo=webpack)
 
 ##### Some of the technologies I'm going to learn foreward
 
@@ -52,9 +52,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-222222?style=flat&logo=amazonaws)
-![Symfony](https://img.shields.io/badge/-Symfony-222222?style=flat&logo=symfony)
+<!-- ![Symfony](https://img.shields.io/badge/-Symfony-222222?style=flat&logo=symfony)
 ![Cypress](https://img.shields.io/badge/-Cypress-222222?style=flat&logo=cypress)
-![Material Design](https://img.shields.io/badge/-Material%20Design-222222?style=flat&logo=materialdesign)
+![Material Design](https://img.shields.io/badge/-Material%20Design-222222?style=flat&logo=materialdesign) -->
 ![Chart.js](https://img.shields.io/badge/-Chart.js-222222?style=flat&logo=chartdotjs)
 
 
